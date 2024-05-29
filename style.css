@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+    text-decoration-thickness: 5px;
+    text-underline-offset: 10px;
+}
+
+.carousel-item{
+    align-items: center;
+}
+
